@@ -2,24 +2,6 @@
 
 ### math & business @ Waterloo - software + security engineer - product builder
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhibwqr&label=Profile views&color=0e75b6&style=flat" alt="muhibwqr" /> </p>
-
-<p align="left"> <a href="https://twitter.com/muhibwqr" target="blank"><img src="https://img.shields.io/twitter/follow/muhibwqr?logo=twitter&style=for-the-badge" alt="muhibwqr" /></a> </p>
-
-- 🔭 I'm currently working on **GooseType – competitive typing arena initially launched as WaterlooType (https://goosetype.com)**
-
-- 🌱 I'm currently learning **AI security agents, scalable backend systems, and product-focused engineering**
-
-- 👯 I'm looking to collaborate on **security-focused SaaS tools, AI incident response agents, and campus-scale typing products**
-
-- 🤝 I'm looking for help with **stress-testing security agent ideas and getting real feedback from builders​**
-
-- 💬 Ask me about **full-stack web dev, security engineering, and shipping startup-style products**
-
-- 📫 How to reach me **m7waqar@uwaterloo.ca**
-
-- ⚡ Fun fact **I once rebuilt a banned typing platform into a 5000-user launch in a week**
-
 - 👨‍💻 All of my projects are available at **[https://muhibwaqar.com](https://muhibwaqar.com)**
 
 - 📄 Know about my experiences **[https://www.linkedin.com/in/muhibwaqar/overlay/1764273430692/single-media-viewer/?profileId=ACoAACnfKngBa0nkCzFELUxvLcXr8iwuxKOuVOo](https://www.linkedin.com/in/muhibwaqar/overlay/1764273430692/single-media-viewer/?profileId=ACoAACnfKngBa0nkCzFELUxvLcXr8iwuxKOuVOo)**
